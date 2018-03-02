@@ -9,6 +9,8 @@ gem "rake"
 gem "cuba"
 gem "puma"
 
+gem "slack-ruby-bot"
+gem "celluloid-io"
 gem "mongoid"
 
 gem "pry"
